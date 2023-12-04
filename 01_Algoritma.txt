@@ -1,0 +1,51 @@
+ --------------ALGORİTMA
+
+--> Algoritma bir problemin çözümü için uygulanması ya da takip edilmesi gereken yönergelerin bütünü olarak ifade edilebilir.
+--> Teknik açıdan bakıldığında ilgili problemin çözümü için kullanılacak komut dizisi de algoritma olarak tanımlanabilir.
+
+ --> Algoritma, bir dizi işlemi kesin olarak tanımlayan bir dizi kuraldır.
+
+ --------------ALGORİTMA ÖZELLİKLERİ
+
+*Başlangıç ve bitiş noktaları olmalı
+*Sade ve anlaşılır olamalı
+*Kararlı olamalıdır.
+*Sistematik adımlar içerir
+*Adımlar adım adım göstermelidir
+*Maliyeti elimizden geldikçe en aza indirmek
+*Pc tarafından tanınır olamalıdır
+**En önemli özelliklerden biri ise --> Etkili bir algoritma, mevcut donanım kaynaklarını dikkate alarak, sınırlı bir alan ve zaman içinde tanımlı problem için çözüm üretebilmelidir.
+*Başlangıç değeri önceden verilebilir.
+*Tam belirlilik vardır.
+
+ --------------ALGORİTMANIN MATEMATİKTEKİ YERİ
+
+ Algoritma içerisinde aritmetik ve mantıksal adımlar bulundurabilir.
+örnek:
+ x = y --> x == y
+--> Giriş --  Fonksiyon -- Çıktı
+
+--------------Akış Şemaları
+
+Algoritmanın görselleştirilmesidir
+Draw.io yardımcı kaynak :)
+
+---------KABA KOD 
+Programcılar sıklıkla algoritmaları, yalnızca insan gözlerine yönelik bir şekilde tanımlamak isterler.
+Yapılandırılmış bir metindir.
+Makineye değil, insana sunulur.
+
+
+Değişken: değer depolama
+veri türü: değişkenin alanı
+
+-----------ALGORİTMA TÜRLERİ
+1-> Direkt Algoritma -- tekrar eden algoritmalardır.
+2-> Ardışık Algoritma -- örnek faktöriyel hesaplama
+2a-> Sezgisel Algoritma
+2b-> Yakınsak Algoritma
+2b_1-> Yaklaşık Algoritma
+2b_2-> Sonlu Algoritma
+2b_2a-> Yol Yapılı Algoritma
+2b_2b-> Ağaç Yapılı Algoritma
+

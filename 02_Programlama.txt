@@ -1,0 +1,22 @@
+Programlama, problemin tespiti ile başlayıp ürünün elde edilmesi, dağıtılması ve bakım süreçlerinin tamamını kapsayan bir süreç olarak düşünülebilir.
+
+-----------Bir programlama dilini öğrenmek
+
+Dijital okuyaazarlık
+Platform seçimi
+Bol bolçalışma ve pratik
+
+Kütüphaneler: Alana özgü hazır fonksiyonları önümüze sunar
+
+
+-----Gelişim ekseninde programlama dilleri
+> Birinci Nesil: Donanım odaklı derleyici yok, işlemciye doğrudan komut verme, öğrenmesi zor
+> İkinci Nesil: Assembly dillerdir. Daha okunabilir kodlar. Donanım odaklı.
+> Üçüncü Nesil: Yapısal dillerdir. Günümüzdeki programlama dillerinin temelini oluşturur. Donanım bağımlılığı azalmıştır. Compiler ya da interpreter ihtıyacı vardır.
+> Dördüncü Nesil: Kolay kullanım. Daha az kod yazarak uygulama geliştirme. Yönergeler, sihirbazlar, form üreticileriyle uygulama geliştirme.
+> Beşinci Nesil: Imprerative kodlama yerine, declarative kodlama. Prolog, OPS, Mercury
+
+
+-----Tümleşik Geliştirme Ortamı: (IDE) yazılım uygulamaları geliştirmek üzere yazılım geliştiricilerine kapsamlı olanaklar sağlayan programları ifade eder.
+
+Tasarım -> Kodlama -> Test -> Dağıtım 

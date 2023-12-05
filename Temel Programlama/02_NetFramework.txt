@@ -1,0 +1,15 @@
+.NET Framework: Sadece Windows içindir.
+.NET Core: Farklı platformlarda çalışır.
+
+Ortak Dil Çalışma Zamanı(CLR)
+Uygulamaları çalıştıran yürütme metodu
+İş parçacığı, çöp toplama, tür güvenliği, istisna işleme ve daha fazlası gibi hizmetler sağlar.
+
+Sınıf Kitaplığı: Ortak işlevsellik için API'ler ve türleri kümesi sağlar.
+Dizeler, tarihler, sayılar vb. için türler sağlar.
+
+:NET uygulamaları:
+C#, F# veya Visual Basic dilinde yazılır
+Diden bağımsız CIL olarak derlenmiştir
+Derlenen kod .dll veya .exe dosya uzantısıyla saklanır.
+
